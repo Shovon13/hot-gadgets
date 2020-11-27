@@ -1,0 +1,20 @@
+.container{
+    margin-bottom: 100px;
+}
+.bg-img{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+}
+.buy-now-btn{
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
